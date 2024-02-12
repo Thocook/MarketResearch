@@ -1,2 +1,2 @@
 # MarketResearch
-[![Project Logo](https://drive.google.com/file/d/1nwqe2ehict_td0DuXDsl6ak5ZVTUxS3Z/view)]
+![Project Logo](https://drive.google.com/uc?id=1nwqe2ehict_td0DuXDsl6ak5ZVTUxS3Z)
