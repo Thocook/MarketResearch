@@ -1,10 +1,10 @@
-#Market Analysis Dashboard
+# Market Analysis Dashboard
 This repository contains a market analysis dashboard built using Plotly Dash, which provides insights into the performance of companies listed on the Toronto Stock Exchange (TSX). The dashboard allows users to explore various financial metrics and trends across different sectors.
 
-#Data
+# Data
 The data used in this project consists of a list of approximately 800 TSX ticker symbols along with associated financial data obtained from Yahoo Finance. The raw data files are stored in the data folder.
 
-#Dashboard
+# Dashboard
 The dashboard provides the following features:
 
 Sector Selection: Users can select specific sectors or view data for all sectors.
